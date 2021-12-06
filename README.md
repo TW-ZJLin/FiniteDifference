@@ -18,4 +18,5 @@ The variable "neighbor" is used to determine how many data points are used to ca
 The default of "neighbor" is 1. <br>
 The Central Finite Difference Method is recommended to get better accuracy. <br>
 
-NOTE: When "neighbor" becomes larger, the curve will be smoother, but the boundary error will also be larger.
+NOTE: When "neighbor" becomes larger, the curve will be smoother, but the boundary error will also be larger.<br><br>
+
