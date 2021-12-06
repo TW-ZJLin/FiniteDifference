@@ -7,11 +7,11 @@ Three Numerical differentiations for unkown function:
 
 Case A:
 Input: (x,y,neighbor)
-Output: diff of y with respect to x 
+Output: differentiations of y with respect to x 
 
 Case B:
 Input: (y,neighbor)
-Output: diff of y with respect to integer
+Output: differentiations of y with respect to integer
 
 
 The variable "neighbor" is used to determine how many data points are used to calculate the differentiations.
