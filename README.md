@@ -20,5 +20,7 @@ The Central Finite Difference Method is recommended to get better accuracy. <br>
 
 NOTE: When "neighbor" becomes larger, the curve will be smoother, but the boundary error will also be larger.<br><br>
 
+Analytic Expression: <br>
+![](https://github.com/TW-ZiJieLin/FiniteDifference/blob/main/analytic_expression.png)<br>
 Results: <br>
 ![](https://github.com/TW-ZiJieLin/FiniteDifference/blob/main/results.png)
