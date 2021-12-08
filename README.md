@@ -21,6 +21,7 @@ The Central Finite Difference Method is recommended to get better accuracy. <br>
 NOTE: When "neighbor" becomes larger, the curve will be smoother, but the boundary error will also be larger.<br><br>
 
 Analytic Expression: <br>
+The function is y = 12*x**3 + 15*x**2 - 20*x + 8 <br>
 ![](https://github.com/TW-ZJLin/FiniteDifference/blob/main/analytic_expression.png)<br>
 Results: <br>
 ![](https://github.com/TW-ZJLin/FiniteDifference/blob/main/results.png)
