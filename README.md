@@ -6,10 +6,10 @@ Three Numerical differentiations for unkown function:
 3. Backward Finite Difference
 
 Case A:<br>
-Input: (x,y,neighbor)<br>
+* Input: (x,y,neighbor)<br>
   * x,y:Numpy array with 1 dimensions <br>
   * neighbor:integer <br>
-Output: differentiations of y with respect to x <br>
+* Output: differentiations of y with respect to x <br>
 
 Case B:<br>
 Input: (y,neighbor)<br>
