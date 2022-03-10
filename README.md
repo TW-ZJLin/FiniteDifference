@@ -6,16 +6,18 @@ Three Numerical differentiations for unkown function:
 3. Backward Finite Difference
 
 Case A:<br>
-* Input: (x,y,neighbor)<br>
+* Input: ( x, y, neighbor ) <br>
   * x, y: Numpy array with 1 dimensions <br>
   * neighbor: integer <br>
-* Output: (y_diff) <br>
-  * y_diff: Numpy array with 1 dimensions (differentiations of y with respect to x) <br>
+* Output: ( y_diff ) <br>
+  * y_diff: Numpy array with 1 dimensions ( differentiations of y with respect to x ) <br>
 
 Case B:<br>
-Input: (y,neighbor)<br>
-Output: differentiations of y with respect to integer <br>
-
+* Input: ( x, neighbor ) <br>
+  * x: Numpy array with 1 dimensions <br>
+  * neighbor: integer <br>
+* Output: ( x_diff ) <br>
+  * x_diff: Numpy array with 1 dimensions ( differentiations of x with respect to natural number ) <br>
 
 The variable "neighbor" is used to determine how many data points are used to calculate the differentiations. <br>
 The default of "neighbor" is 1. <br>
