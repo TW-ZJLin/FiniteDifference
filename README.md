@@ -9,6 +9,8 @@ Provides three ways of Numerical differentiations for unkown function:
 2. Central Finite Difference
 3. Backward Finite Difference
 
+And compare Central Finite Difference with Numpy.gradient at the end of the article.
+
 ## input/output format
 Case A:<br>
 * Input: ( x, y, neighbor ) <br>
