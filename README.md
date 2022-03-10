@@ -29,7 +29,7 @@ NOTE: When "neighbor" becomes larger, the curve will be smoother, but the bounda
 
 ## Sample
 Analytic Expression: <br>
-The function is y = 4*x**5 + 12*x**3 + 15*x**2 - 20*x + 8
+The function is y = 4*x**5 + 12*x**3 + 15*x**2 - 20*x + 8 <br>
 ![](https://github.com/TW-ZJLin/FiniteDifference/blob/main/analytic_expression.png)<br>
 Results: <br>
 ![](https://github.com/TW-ZJLin/FiniteDifference/blob/main/results.png)
