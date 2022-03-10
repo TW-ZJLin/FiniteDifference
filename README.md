@@ -1,10 +1,12 @@
 # FiniteDifference
 
+## Introduction
 Three Numerical differentiations for unkown function:
 1. Forward Finite Difference
 2. Central Finite Difference
 3. Backward Finite Difference
 
+## input/output format
 Case A:<br>
 * Input: ( x, y, neighbor ) <br>
   * x, y: Numpy array with 1 dimensions <br>
