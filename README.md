@@ -1,7 +1,10 @@
 # FiniteDifference
 
 ## Introduction
-Three Numerical differentiations for unkown function:
+
+Numerical differentiation of discrete functions.
+
+Provides three ways of Numerical differentiations for unkown function:
 1. Forward Finite Difference
 2. Central Finite Difference
 3. Backward Finite Difference
