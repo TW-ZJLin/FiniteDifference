@@ -7,9 +7,10 @@ Three Numerical differentiations for unkown function:
 
 Case A:<br>
 * Input: (x,y,neighbor)<br>
-  * x,y:Numpy array with 1 dimensions <br>
-  * neighbor:integer <br>
-* Output: differentiations of y with respect to x <br>
+ * x, y: Numpy array with 1 dimensions <br>
+ * neighbor: integer <br>
+* Output: (y_diff) <br>
+ * differentiations of y with respect to x <br>
 
 Case B:<br>
 Input: (y,neighbor)<br>
