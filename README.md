@@ -36,7 +36,11 @@ NOTE: When "neighbor" becomes larger, the curve will be smoother, but the bounda
 Analytic Expression: <br>
 The function is y = 4*x**5 + 12*x**3 + 15*x**2 - 20*x + 8 <br>
 ![](https://github.com/TW-ZJLin/FiniteDifference/blob/main/Figures/analytic_expression.png)<br>
+
 Results: <br>
+The three ways of Numerical differentiations and their 1st,2nd-order error as shown below.<br>
+The results show that the Central Finite Difference has better performance.<br>
 ![](https://github.com/TW-ZJLin/FiniteDifference/blob/main/Figures/results.png)<br>
 
+Comparing Central Finite Difference and Numpy.gradient, the results are clearly the same.<br>
 ![](https://github.com/TW-ZJLin/FiniteDifference/blob/main/Figures/comparison.png)<br>
