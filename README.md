@@ -1,4 +1,4 @@
-# FiniteDifference
+# Finite Difference
 
 ## Introduction
 
