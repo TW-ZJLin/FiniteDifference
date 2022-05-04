@@ -43,4 +43,4 @@ The results show that the Central Finite Difference has better performance.<br>
 ![](https://github.com/TW-ZJLin/FiniteDifference/blob/main/Figures/results.png)<br>
 
 Comparing Central Finite Difference and Numpy.gradient, the results are clearly the same.<br>
-![](https://github.com/TW-ZJLin/FiniteDifference/blob/main/Figures/comparison.png)<br>
+![](https://github.com/TW-ZJLin/FiniteDifference/blob/main/Figures/comparison.png)<br>0
